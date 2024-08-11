@@ -23,8 +23,8 @@ env:
   REPO_URL: https://github.com/openwrt/openwrt
  # REPO_URL: https://github.com/Lienol/openwrt
   REPO_BRANCH: master
-  REPO_TAG: openwrt-master
-  # REPO_TAG: 22.03.5
+  REPO_TAG: master
+  
   DTS_FILE: mt7621_jdcloud_re-sp-01b.dts
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
